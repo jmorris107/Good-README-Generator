@@ -14,19 +14,68 @@ const questions = [
 
 {
     type: "input",
-    name: "username",
-    message: "Enter your Github username."
+    name: "description",
+    message: "Enter description."
+},
+
+{
+    type: "input",
+    name: "installation",
+    message: "Enter installation instructions."
+},
+
+{
+    type: "input",
+    name: "usage",
+    message: "Enter usage information."
+},
+
+{
+    type: "input",
+    name: "contribution",
+    message: "Enter contribution guidlines."
+},
+
+{
+    type: "input",
+    name: "test",
+    message: "Enter test instructions."
 },
 
 {
     type: "list",
-        message: "So, what's your favourite color? ",
-        name: "color",
+        message: "what's your license? ",
+        name: "license",
         choices: [
-            "green",
-            "blue",
-            "pink",
-            "red"
+
+    "None",
+
+    "Apache License 2.0",
+
+    "GNU General Public License v3.0",
+
+    "MIT License",
+
+    "BSD 2-Clause 'Simplified' License",
+
+    "BSD 3-Clause 'New' or 'Revised' License",
+
+    "Boost Software License 1.0",
+
+    "Creative Commons Zero v1.0 Universal",
+
+    "Eclipse Public License 2.0",
+
+    "GNU Affero General Public License v3.0",
+
+    "GNU General Public License v2.0",
+
+    "GNU Lesser General Public License v2.1",
+
+    "Mozilla Public License 2.0",
+
+    "The Unlicense"
+
         ]
 }
 ];
