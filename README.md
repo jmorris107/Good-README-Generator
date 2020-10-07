@@ -1,21 +1,33 @@
-# ReadMe Generator
-    # description
-    This app generate ReadMe for you.
+# README Generator
+    # Description
+    This is app will generate ReadMe file for you.
 
-    #installation
-    None.
+    # Table of contents
+    - [Description](#Description)
+    - [Installation](#Installation)
+    - [Usage](#Usage)
+    - [Licence](#Licence)
+    - [Contributors](#Contributors)
+    - [Test](#Test)
+    - [Repository Link](#Repository)
+    - [GitHub Info](#GitHub) 
 
-    #usage
-    None.
+    # Installation
+    Download
 
-    #contribution
+    # Usage
+    type node index.js on Terminal for Mac, or Gitbash for Windows.
+
+    # Contribution
     undefined
 
-    #test
-    None.
+    # Test
+    Not yet.
 
-    #license
-    None
+    # License
+    Mozilla Public License 2.0
+
+   
 
 
   
