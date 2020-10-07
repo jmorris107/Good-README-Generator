@@ -1,6 +1,6 @@
-# README Generator
+# README GENERATOR
     # Description
-    This is app will generate ReadMe file for you.
+    hhhlll
 
     # Table of contents
     - [Description](#Description)
@@ -13,19 +13,25 @@
     - [GitHub Info](#GitHub) 
 
     # Installation
-    Download
+    asfdvfgj
 
     # Usage
-    type node index.js on Terminal for Mac, or Gitbash for Windows.
+    rtyui
 
     # Contribution
     undefined
 
     # Test
-    Not yet.
+    gfhjk
 
     # License
-    Mozilla Public License 2.0
+    None
+
+    # Question
+    jmorris107
+    jenniferinbaranoseidou@gmail.com
+    https://github.com/jmorris107/Good-README-Generator
+
 
    
 

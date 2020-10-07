@@ -29,6 +29,12 @@ function generateMarkdown(data) {
     # License
     ${data.license}
 
+    # Question
+    ${data.username}
+    ${data.email}
+    ${data.repo}
+
+
    
 
 

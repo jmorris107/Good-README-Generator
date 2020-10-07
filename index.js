@@ -1,50 +1,48 @@
 // array of questions for user
 const generateMarkdown =require("./utils/generateMarkdown.js");
 const inquirer = require("inquirer");
-const fs = require("fs")
-
-
+const fs = require("fs");
 
 const questions = [
 {
     type: "input",
     name: "title",
-    message: "Enter your project title."
+    message: "What is your project title?"
 },
 
 {
     type: "input",
     name: "description",
-    message: "Enter description."
+    message: "Type description here."
 },
 
 {
     type: "input",
     name: "installation",
-    message: "Enter installation instructions."
+    message: "How do you install it?"
 },
 
 {
     type: "input",
     name: "usage",
-    message: "Enter usage information."
+    message: "How do you use it?"
 },
 
 {
     type: "input",
     name: "contribution",
-    message: "Enter contribution guidlines."
+    message: "What is your contribution?"
 },
 
 {
     type: "input",
     name: "test",
-    message: "Enter test instructions."
+    message: "How do you run test?"
 },
 
 {
     type: "list",
-        message: "what's your license? ",
+        message: "what is your license? ",
         name: "license",
         choices: [
 
@@ -77,7 +75,26 @@ const questions = [
     "The Unlicense"
 
         ]
-}
+},
+
+{
+    type: "input",
+    name: "username",
+    message: "What is your Github username?"
+},
+
+{
+    type: "input",
+    name: "email",
+    message: "What is your email address?"
+},
+
+{
+    type: "input",
+    name: "repo",
+    message: "What is your repo link?"
+},
+
 ];
 
 // function to write README file
