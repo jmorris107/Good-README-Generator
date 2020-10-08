@@ -3,12 +3,11 @@
   
   
   # Description
-  📝This is a node.js file wich create readme file for you. 
+  📝This is a node.js application that input inquirere and generate README.md file for repository of users. 
+
+   <a href="https://youtu.be/-Ppu15HnsMo">📹Full video for the functional demonstration of the application is here.</a>
   <a><img src="./src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
 
-  <a href="https://youtu.be/-Ppu15HnsMo">📹Full video is here.</a>
-
-  https://youtu.be/-Ppu15HnsMo
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -19,21 +18,27 @@
   - [Questions](#questions)
 
   # Installation
-  🗳npm init
-  
+  🗳
+  <code>npm init</code>
 
+  <code>npm install inquirer</code>
+  
   # Usage
-  💻run node index.js and answer the questions.
+  💻
+  run <code>node index.js</code>  on Terminal(Mac) or Gitbash(Windows) and answer the prompt questions.
   # Contribution
-  👩🏻‍💻Jennifer Morris
+  👩🏻‍💻
+ <a href="https://github.com/jmorris107">Jennifer Morris</a>
   # Test
-  🧩N/A
+  🧩
+  Run node index.js to see if the file is created. Also, it's better to git push to make sure the file is really working.
   # License
+  
   None
 
   # Question❓
   <br />
-:octocat: Find me on GitHub: [jmorris107](https://github.com/jmorris107)<br />
+:octocat: My GitHub link: [${data.username}](https://github.com/${data.username})<br />
  📩 If you have any question, email me here: jenniferinbaranoseidou@gmail.com<br /><br />
  📠 My repo link: https://github.com/jmorris107/Good-README-Generator.github.io</li>
  
