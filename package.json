@@ -11,6 +11,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "github-api": "^3.3.0",
-    "inquirer": "^6.5.2"
+    "inquirer": "^6.5.2",
+    "scribe-plugin-jump-link": "^1.0.1"
   }
 }
