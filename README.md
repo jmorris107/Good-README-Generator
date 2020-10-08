@@ -4,8 +4,8 @@
   
   # Description
   📝This is a node.js file wich create readme file for you.
-
-  <a><img src="./src/jennifer-readme-generator.gif" alt="video"></a>
+  <a target="_blank" rel="noopener noreferrer" href="/jpd61/README-generator/blob/master/src/jennifer-readme-generator.gif"><img src="/jpd61/README-generator/raw/master/src/jennifer-readme-generator.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
+  <img src="/jpd61/README-generator/raw/master/src/jennifer-readme-generator.gif" alt="Jennifer README Generator" style="max-width:100%;"><a target="_blank" rel="noopener noreferrer" href="/jpd61/README-generator/blob/master/src/jennifer-readme-generator.gif"><img src="/jpd61/README-generator/raw/master/src/jennifer-readme-generator.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
 
   ## Table of Contents
   - [Description](#description)
