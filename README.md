@@ -1,36 +1,36 @@
-# ReadMe Generator
+# ReadMe Generator💡
   
-  <h1 align="center">ReadMe Generator💡 </h1>
   
   
   # Description
-  📝This is app that creat readme file for you.
+  📝 This app write readme for you after you answer the questions.
 
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
+  - [Contribution](#contribution)
   - [Tests](#tests)
   - [Questions](#questions)
 
   # Installation
-  🗳install npm
+  🗳install npm 
   
 
   # Usage
-  💻write "node" infront of your js file and run it.
-  👩🏻‍💻# Contribution
-  undefined
-  🧩# Test
-  N?A
+  💻Answer the questions on Terminal.
+  # Contribution
+  👩🏻‍💻me
+  # Test
+  🧩watch youtube video pls.
   # License
-  GNU General Public License v3.0
-  ❓# Question
-  jmorris107
+  MIT License
+
+  # Question
+  ❓jmorris107
   <br />
 :octocat: Find me on GitHub: [jmorris107](https://github.com/jmorris107)<br />
-  jenniferinbaranoseidou@gmail.com
-  https://github.com/jmorris107/Good-README-Generator#questions
+ <li> 📩jenniferinbaranoseidou@gmail.com</li>
+ <li>📠https://github.com/jmorris107/Good-README-Generator.github.io</li>
  

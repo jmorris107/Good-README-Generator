@@ -29,12 +29,13 @@ function generateMarkdown(data) {
   🧩${data.test}
   # License
   ${data.license}
+
   # Question
   ❓${data.username}
   <br />
 :octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
-  📩${data.email}
-  📠${data.repo}
+ <li> 📩${data.email}</li>
+ <li>📠${data.repo}</li>
  
 `;
 }
