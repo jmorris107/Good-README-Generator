@@ -5,7 +5,7 @@
   # Description
   📝This is a node.js file wich create readme file for you.
 
-  <img src="./src/jennifer-readme-generator.gif" alt="video">
+  <a><img src="./src/jennifer-readme-generator.gif" alt="video"></a>
 
   ## Table of Contents
   - [Description](#description)
