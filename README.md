@@ -15,7 +15,7 @@
   - [Questions](#questions)
 
   # Installation
-  🗳 <a><img src="./src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
+  🗳 <a><img src="src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
   
 
   # Usage
