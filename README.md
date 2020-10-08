@@ -21,7 +21,6 @@
   # Installation
   🗳 
     <code>npm init</code>
-
     <code>npm install inquirer</code>
 
   # Usage
