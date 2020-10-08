@@ -1,9 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
  
-  return `# ${data.title}
+  return `# ${data.title}💡
   
-  <h1 align="center">${data.title}💡 </h1>
   
   
   # Description
@@ -24,18 +23,18 @@ function generateMarkdown(data) {
 
   # Usage
   💻${data.usage}
-  👩🏻‍💻# Contribution
-  ${data.contributing}
-  🧩# Test
-  ${data.test}
+  # Contribution
+  👩🏻‍💻${data.contribution}
+  # Test
+  🧩${data.test}
   # License
   ${data.license}
-  ❓# Question
-  ${data.username}
+  # Question
+  ❓${data.username}
   <br />
 :octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
-  ${data.email}
-  ${data.repo}
+  📩${data.email}
+  📠${data.repo}
  
 `;
 }
