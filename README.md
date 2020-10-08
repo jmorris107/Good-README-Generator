@@ -3,7 +3,9 @@
   
   
   # Description
-  📝 This app write readme for you after you answer the questions.
+  📝This is a node.js file wich create readme file for you.
+
+  <img src="./src/jennifer-readme-generator.gif" alt="video">
 
   ## Table of Contents
   - [Description](#description)
@@ -15,22 +17,21 @@
   - [Questions](#questions)
 
   # Installation
-  🗳install npm 
+  🗳npm init
   
 
   # Usage
-  💻Answer the questions on Terminal.
+  💻run node index.js and answer the questions.
   # Contribution
-  👩🏻‍💻me
+  👩🏻‍💻Jennifer Morris
   # Test
-  🧩watch youtube video pls.
+  🧩N/A
   # License
-  MIT License
+  None
 
-  # Question
-  ❓jmorris107
+  # Question❓
   <br />
 :octocat: Find me on GitHub: [jmorris107](https://github.com/jmorris107)<br />
- <li> 📩jenniferinbaranoseidou@gmail.com</li>
- <li>📠https://github.com/jmorris107/Good-README-Generator.github.io</li>
+ 📩 If you have any question, email me here: jenniferinbaranoseidou@gmail.com<br /><br />
+ 📠 My repo link: https://github.com/jmorris107/Good-README-Generator.github.io</li>
  
