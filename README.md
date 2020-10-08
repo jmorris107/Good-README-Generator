@@ -3,7 +3,7 @@
   
   
   # Description
-  📝This is a node.js file wich create readme file for you.
+  📝This is a node.js file wich create readme file for you. <a><img src="./src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>](https://github.com/  🗳 <a><img src="./src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
 
   ## Table of Contents
   - [Description](#description)
@@ -15,7 +15,7 @@
   - [Questions](#questions)
 
   # Installation
-  🗳 <a><img src="src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
+  🗳npm init
   
 
   # Usage
