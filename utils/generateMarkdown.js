@@ -3,11 +3,11 @@ function generateMarkdown(data) {
  
   return `# ${data.title}
   
-  <h1 align="center">${data.title} 👋</h1>
+  <h1 align="center">${data.title}💡 </h1>
   
   
   # Description
-  ${data.description}
+  📝${data.description}
 
   ## Table of Contents
   - [Description](#description)
@@ -19,19 +19,21 @@ function generateMarkdown(data) {
   - [Questions](#questions)
 
   # Installation
-  ${data.installation}
+  🗳${data.installation}
   
 
   # Usage
-  ${data.usage}
-  # Contribution
+  💻${data.usage}
+  👩🏻‍💻# Contribution
   ${data.contributing}
-  # Test
+  🧩# Test
   ${data.test}
   # License
   ${data.license}
-  # Question
-  ${data.username.queryUrl}
+  ❓# Question
+  ${data.username}
+  <br />
+:octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
   ${data.email}
   ${data.repo}
  
