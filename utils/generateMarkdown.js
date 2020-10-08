@@ -5,8 +5,8 @@ function generateMarkdown(data) {
   
   
   
-  # Description
-  📝${data.description}
+  # 📝 Description
+  ${data.description}
 
   ## Table of Contents
   - [Description](#description)
@@ -17,23 +17,24 @@ function generateMarkdown(data) {
   - [Test](#test)
   - [Questions](#questions)
 
-  # Installation
-  🗳${data.installation}
+  # 🗳 Installation
+  ${data.installation}
   
 
-  # Usage
-  💻${data.usage}
-  # Contribution
-  👩🏻‍💻${data.contribution}
-  # Test
-  🧩${data.test}
-  # License
+  # 💻 Usage
+  ${data.usage}
+  # 👩🏻‍💻 Contribution
+  ${data.contribution}
+  # 🧩 Test
+  ${data.test}
+  # 🚀 License
   ${data.license}
 
   # Question❓
+  :octocat: My GitHub link: [${data.username}](https://github.com/${data.username})<br />
   <br />
-:octocat: Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
- 📩 If you have any question, email me here: ${data.email}<br /><br />
+   📩 If you have any question, email me here: jenniferinbaranoseidou@gmail.com<br /><br />
+
  📠 My repo link: ${data.repo}</li>
  
 `;
