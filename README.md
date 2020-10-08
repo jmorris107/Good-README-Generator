@@ -5,6 +5,10 @@
   # Description
   📝This is a node.js file wich create readme file for you. 
   <a><img src="./src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
+
+  <a href="https://youtu.be/-Ppu15HnsMo">📹Full video is here.</a>
+
+  https://youtu.be/-Ppu15HnsMo
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
