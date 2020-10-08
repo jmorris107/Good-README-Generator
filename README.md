@@ -26,14 +26,15 @@
   # Usage
   💻 
     Run node index.js on Terminal(Mac) or Gitbash(Windows) and answer the prompt questions.
+
+    <code>node index.js</code>
+    
   # Contribution
   👩🏻‍💻 
    <a href="https://github.com/jmorris107">Jennifer Morris</a>
   # Test
   🧩
   Run node index.js to see if the file is created. Also, it's better to git push to make sure the file is really working.
-
-<code>node index.js</code>
 
   # License
   🚀
