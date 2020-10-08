@@ -26,9 +26,8 @@
   # Usage
   💻 
     Run node index.js on Terminal(Mac) or Gitbash(Windows) and answer the prompt questions.
-
     <code>node index.js</code>
-    
+
   # Contribution
   👩🏻‍💻 
    <a href="https://github.com/jmorris107">Jennifer Morris</a>
