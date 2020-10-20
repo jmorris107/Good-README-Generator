@@ -1,13 +1,10 @@
-# README Generator Using Node.js💡
+# READ💡
   
-  
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
   
   # Description
   📝 
-  This is a node.js application that input inquirere and generate README.md file for repository of users. 
-
-  <a href="https://youtu.be/-Ppu15HnsMo">📹Full video for the functional demonstration of the application is here.</a>
-  <a><img src="./src/jennifer.readme.gif" alt="Jennifer README Generator" style="max-width:100%;"></a>
+  this is an app
 
   ## Table of Contents
   - [Description](#description)
@@ -20,29 +17,26 @@
 
   # Installation
   🗳 
-    <code>npm init</code>
-    <code>npm install inquirer</code>
-
+  sadxk
   # Usage
   💻 
-    Run node index.js on Terminal(Mac) or Gitbash(Windows) and answer the prompt questions.
-    <code>node index.js</code>
-
+  how
   # Contribution
   👩🏻‍💻 
-   <a href="https://github.com/jmorris107">Jennifer Morris</a>
+  me
   # Test
   🧩
-  Run node index.js to see if the file is created. Also, it's better to git push to make sure the file is really working.
-
+  asdfdaskdk
   # License
   🚀
-  None
+  ![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+  <br />
+  This application is covered by the Apache license. 
 
   # Questions❓
-  :octocat: My GitHub link: [jmorris107](https://github.com/jmorris107)<br />
+  :octocat: My GitHub link: [jmorris](https://github.com/jmorris)<br />
   <br />
    📩 If you have any question, email me here: jenniferinbaranoseidou@gmail.com<br /><br />
 
- 📠 My repo link: https://github.com/jmorris107/Good-README-Generator.github.io</li>
+ 📠 My repo link: asd</li>
  

@@ -3,7 +3,7 @@ function generateMarkdown(data) {
  
   return `# ${data.title}💡
   
-  
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)<br />
   
   # Description
   📝 
@@ -32,7 +32,9 @@ function generateMarkdown(data) {
   ${data.test}
   # License
   🚀
-  ${data.license}
+  ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  <br />
+  This application is covered by the ${data.license} license. 
 
   # Questions❓
   :octocat: My GitHub link: [${data.username}](https://github.com/${data.username})<br />
