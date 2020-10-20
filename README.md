@@ -18,8 +18,7 @@
 <p>
 <a href="https://youtu.be/-Ppu15HnsMo" rel="nofollow"><g-emoji class="g-emoji" alias="video_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f9.png">📹</g-emoji>Full video for the functional demonstration of the application is here.</a>
 
-![README Generator](src/jennifer.readme.gif)
-   
+![README Generator](src/jennifer.readme.gif) 
 
   # Table of Contents
   - [Description](#description)
