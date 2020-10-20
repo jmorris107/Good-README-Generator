@@ -49,8 +49,6 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-
-
   # Installation
   🗳 <code>Node.js</code><code>npm init</code><code>npm install inquirer</code>
   # Usage
