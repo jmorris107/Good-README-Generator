@@ -3,16 +3,13 @@
   
   ![badge](https://img.shields.io/badge/license-None-brightgreen)
   ![node badge](https://img.shields.io/badge/node-v12.19.0-green.svg)
-  ![repo size badge](https://img.shields.io/badge/reposize-3.35MB-blue.svg)
-
-
+  ![repo size badge](https://img.shields.io/badge/reposize-47.4MB-blue.svg)
+-------------------------------------------------------------------------------
   ![Javascript badge](https://img.shields.io/badge/JavaScript-yellow.svg)
   ![jQuery badge](https://img.shields.io/badge/jQuery-blue.svg)
   ![node.js badge](https://img.shields.io/badge/node.js-green.svg)
   ![inquirer](https://img.shields.io/badge/inquirer-red.svg)
   ![json](https://img.shields.io/badge/json-orange.svg)
-  ![MySQL](https://img.shields.io/badge/mysql-orange.svg)
-  
   
   # Description
   📝  This is a node.js application that input inquirere and generate README.md file for repository of users. 
